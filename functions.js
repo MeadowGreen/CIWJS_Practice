@@ -118,11 +118,6 @@ var searchRange = function(nums, target) {
 };
 /// Leet Code problem 412 ///
 
-<<<<<<< Updated upstream
-langTwo.addEventListener('mouseout', () => {
-    langTwo.classList.remove("progress-bar-striped");
-})
-=======
 var fizzBuzz = function(n) {
     var output = [];
     for(let i = 1; i <= n ; i++){
@@ -141,4 +136,3 @@ var fizzBuzz = function(n) {
     }
     return output;
 };
->>>>>>> Stashed changes
